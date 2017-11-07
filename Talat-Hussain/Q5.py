@@ -7,7 +7,7 @@
 #===============================================================================#
 
 
-class IOString(object):
+class IOString():
    
     def getString(self):
         self.s = input()
