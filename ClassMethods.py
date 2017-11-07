@@ -1,4 +1,4 @@
-class IOstring(object):
+class IOstring():
 
 
     def getStr(self):
