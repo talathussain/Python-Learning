@@ -39,17 +39,7 @@
 #			print(x)
 
 
-class abc(object):
-
-	def input(self):
-		self.s= raw_input()
-
-	def output(self):
-		print(self.s)
-
-obj = abc()
-obj.input()
-obj.output()
+print("Hello its Testing Purpose")
 
 
 
